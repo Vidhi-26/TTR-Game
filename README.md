@@ -17,6 +17,6 @@ An online version of the classic board game - Ticket To Ride (TTR) - but a Canad
 ### Claim a route
 ![route-claim-1-image](https://github.com/Vidhi-26/TTR-Game/blob/main/Screenshots/Claiming%20Routes.png?raw=true)
 
-![route-claim-2-image](https://github.com/Vidhi-26/TTR-Game/blob/main/Screenshots/Route%Options.png?raw=true)
+![route-claim-2-image](https://github.com/Vidhi-26/TTR-Game/blob/main/Screenshots/Route%20Options.png?raw=true)
 
 ![route-claim-3-image](https://github.com/Vidhi-26/TTR-Game/blob/main/Screenshots/Gray%20Route-Choose%20Colour.png?raw=true)
