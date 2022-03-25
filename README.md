@@ -5,3 +5,5 @@ An online version of the classic board game - Ticket To Ride (TTR) - but a Canad
 - Katherine Chun
 - Tiffany Tang
 - Jathusa Indrakumaran
+
+## Step-by-step Walkthrough
