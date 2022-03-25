@@ -9,4 +9,5 @@ An online version of the classic board game - Ticket To Ride (TTR) - but a Canad
 ## Step-by-step Walkthrough
 
 ### Select a card
-![card-selection-image](https://github.com/Vidhi-26/TTR-Game/blob/main/Screenshots/Card Selection.png?raw=true)
+![card-selection-image](https://github.com/Vidhi-26/TTR-Game/blob/main/Screenshots/Card%20Selection.png?raw=true)
+
